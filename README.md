@@ -1,5 +1,5 @@
 Báo Cáo Kỹ Thuật: Dò Vết & Sửa Lỗi Nối Chuỗi Trong Tính Tiền Hóa Đơn
-1. Phân tích nguyên nhân kỹ thuật
+ Phân tích nguyên nhân kỹ thuật
 Trong JavaScript, toán tử + đảm nhận hai vai trò khác nhau tùy thuộc vào kiểu dữ liệu của các toán hạng:
 
 Phép cộng số học (Addition): Thực hiện khi cả hai toán hạng đều là kiểu Number.
