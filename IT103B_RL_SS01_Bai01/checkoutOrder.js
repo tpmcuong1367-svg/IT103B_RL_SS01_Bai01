@@ -1,8 +1,8 @@
-const customerName = "Nguyễn Thị Mai";
-const foodItemName = "Cơm tấm Sườn Bì Chả";
-const rawFoodPrice = "55000";
-const rawToppingPrice ="15000";
-const rawDeliveryFee = "20000";
+const customerName = "Nguyễn Văn A";
+const foodItemName = "Cơm tấm Sườn Trứng";
+const rawFoodPrice = "50000";
+const rawToppingPrice ="25000";
+const rawDeliveryFee = "25000";
 const voucherDiscount = 10000;
 
 const foodPrice = Number(rawFoodPrice);
